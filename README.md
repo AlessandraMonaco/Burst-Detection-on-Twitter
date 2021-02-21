@@ -65,7 +65,7 @@ We used this definitions to compute the following evaluation metrics
 - **False alarm rate** = FP / (#bursts detected online)
 - **Detection rate** = TP / (#bursts detected offline)
 
-### Results
+## Results
 These are just examples of the results we got:
 ![image](https://user-images.githubusercontent.com/68104089/108636791-e5382100-7487-11eb-895b-44fa33084934.png)
 ![image](https://user-images.githubusercontent.com/68104089/108636883-45c75e00-7488-11eb-917b-ba0837b87a28.png)
@@ -76,3 +76,6 @@ Basically the detected bursty features revealed the following events:
 
 To conclude, we just show some offline plots to understand how a true positive, a false negative and a false positive look like:
 ![image](https://user-images.githubusercontent.com/68104089/108637201-eff3b580-7489-11eb-8ae7-c89155dd906e.png)
+
+## References
+J. Yin, A. Lampert, M. Cameron, B. Robinson and R. Power, "Using Social Media to Enhance Emergency Situation Awareness," in IEEE Intelligent Systems, vol. 27, no. 6, pp. 52-59, Nov.-Dec. 2012, doi: 10.1109/MIS.2012.6.
