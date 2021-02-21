@@ -68,4 +68,11 @@ We used this definitions to compute the following evaluation metrics
 ### Results
 These are just examples of the results we got:
 ![image](https://user-images.githubusercontent.com/68104089/108636791-e5382100-7487-11eb-895b-44fa33084934.png)
+![image](https://user-images.githubusercontent.com/68104089/108636883-45c75e00-7488-11eb-917b-ba0837b87a28.png)
+Basically the detected bursty features revealed the following events:
+- **rainonme** and **arianagrande** were detected because on that day the song "Rain on me" by Ariana Grande and Lady Gaga was published on **applemusic**, in the **newmusicdaily** playlist;
+- features like **trump**, **president**, **church** and **american** refear to a conference by Trump, helded in that day, where he stated that churches were essential and they should reopen;
+- **noacf** is the acronymum of Notes On A Conditional Form, which is the fourth studio album by the english band "The 1975", and it was detected because it was released on that day through Dirty Hit and Polydor Records.
 
+To conclude, we just show some offline plots to understand how a true positive, a false negative and a false positive look like:
+- 
