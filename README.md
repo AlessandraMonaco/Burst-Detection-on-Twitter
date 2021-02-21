@@ -67,5 +67,5 @@ We used this definitions to compute the following evaluation metrics
 
 ### Results
 These are just examples of the results we got:
-
+![image](https://user-images.githubusercontent.com/68104089/108636791-e5382100-7487-11eb-895b-44fa33084934.png)
 
