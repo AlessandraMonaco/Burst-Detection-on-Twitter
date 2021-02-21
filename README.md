@@ -75,4 +75,4 @@ Basically the detected bursty features revealed the following events:
 - **noacf** is the acronymum of Notes On A Conditional Form, which is the fourth studio album by the english band "The 1975", and it was detected because it was released on that day through Dirty Hit and Polydor Records.
 
 To conclude, we just show some offline plots to understand how a true positive, a false negative and a false positive look like:
-- 
+![image](https://user-images.githubusercontent.com/68104089/108637201-eff3b580-7489-11eb-8ae7-c89155dd906e.png)
