@@ -2,7 +2,7 @@
 
 Twitter's ubiquity, rapidity, cross-platform accessibility and real time nature make it an important source for event detection. This is why having a system for Burst Detection is crucial to enhance situation awareness for decision making, expecially during crisis or natural disasters.
 
-This project is inspired by the paper "Using Social Media to Enhance Emergency Situation Awareness" by J. Yin, A. Lampert, M. Cameron, B. Robinson and R. Power, that proposes a complex system to acquire knowledge for emergency response, based on 
+This project is inspired by the paper *"Using Social Media to Enhance Emergency Situation Awareness" by J. Yin, A. Lampert, M. Cameron, B. Robinson and R. Power*, that proposes a complex system to acquire knowledge for emergency response, based on 
 - Burst Detection
 - Text Classification
 - Online Clustering
