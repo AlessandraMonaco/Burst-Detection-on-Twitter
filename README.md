@@ -56,10 +56,16 @@ The test set was splitted into 16 windows, using the same window size of the off
 #### Evaluation
 Since we do not have any labels in the dataset and therefore any ground truth, the evaluation is performed by comparing the results (bursty features) of the online algorithm with the ones detected with an offline algorithm, that considers as vocabulary the features of the entire dataset. This is known as **competitive analysis**.
 We defined:
-- **true positives** : bursty features detected by both the online and the offline algorithm;
-- **true negatives** : (non-bursty) features detected by none of the algorithms;
-- **false positives** : features detected as bursty by the online but not by the offline algorithm;
-- **false negatives** : features detected as bursty by the offline but not by the online algorithm;
+- **true positives** (TP) : bursty features detected by both the online and the offline algorithm;
+- **true negatives** (TN) : (non-bursty) features detected by none of the algorithms;
+- **false positives** (FP) : features detected as bursty by the online but not by the offline algorithm;
+- **false negatives** (FN) : features detected as bursty by the offline but not by the online algorithm;
+
 We used this definitions to compute the following evaluation metrics
+- **False alarm rate** = FP / (#bursts detected online)
+- **Detection rate** = TP / (#bursts detected offline)
+
+### Results
+These are just examples of the results we got:
 
 
